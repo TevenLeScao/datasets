@@ -62,7 +62,7 @@ _LICENSE = (
 
 # Source: https://en.wikipedia.org/wiki/List_of_Wikipedias (accessed 3/1/2019)
 # Removed because no articles: hz.
-AVAILABLE_DATES = ["latest", "20200501"]
+AVAILABLE_DATES = ["latest", "20200501", "20210401"]
 WIKIPEDIA_LANGUAGES = [
     "aa",
     "ab",
